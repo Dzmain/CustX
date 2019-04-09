@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustXFInal.Page2">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="What part did you enjoy?" HorizontalOptions="Center"
+                   FontSize="30"
+                   BackgroundColor= "#d93920"
+                   FontFamily="serif"></Label>
+            <ImageButton Source="T2.png" 
+                         HeightRequest="70"
+                         TranslationY="50" >
+            </ImageButton>
+            <Label Text="Food" HorizontalTextAlignment="Center" TranslationX ="60">
+            </Label>
+            <ImageButton Source="Server.png" 
+                         HeightRequest="70" 
+                         TranslationY="90"></ImageButton>
+            <Label Text="Service" HorizontalTextAlignment="Center" 
+                   TranslationX ="70" 
+                   TranslationY="40">
+            </Label>
+            <ImageButton Source="Marg2.png" 
+                         HeightRequest="70" 
+                         TranslationY="150">
+            </ImageButton>
+            <Label Text="Atmosphere" 
+                   HorizontalTextAlignment="Center" 
+                   TranslationX ="80" 
+                   TranslationY="100">
+            </Label>
+            <ImageButton Source="Q2.png" 
+                         HeightRequest="70" 
+                         TranslationY= "200">
+            </ImageButton>
+            <Label Text="Other" 
+                   HorizontalTextAlignment="Center" 
+                   TranslationX ="60" 
+                   TranslationY="150">
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

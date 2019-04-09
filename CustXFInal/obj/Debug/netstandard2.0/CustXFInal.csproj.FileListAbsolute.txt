@@ -1,0 +1,14 @@
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\bin\Debug\netstandard2.0\CustXFInal.deps.json
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\bin\Debug\netstandard2.0\CustXFInal.dll
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\bin\Debug\netstandard2.0\CustXFInal.pdb
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\CustXFInal.csprojAssemblyReference.cache
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\CustXFInal.csproj.CoreCompileInputs.cache
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\CustXFInal.AssemblyInfoInputs.cache
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\CustXFInal.AssemblyInfo.cs
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\CustXFInal.dll
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\CustXFInal.pdb
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\TDF2.xaml.g.cs
+C:\Users\dzmai\source\repos\CustXFInal\CustXFInal\CustXFInal\obj\Debug\netstandard2.0\XamlC.stamp
